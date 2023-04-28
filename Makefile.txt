@@ -1,0 +1,10 @@
+prog: main.o pers.o 
+	gcc main.o pers.o -o prog -lSDL -lSDL_image -lSDL_mixer -lSDL_ttf
+
+main.o: main.c
+	gcc -c main.c -g
+
+
+pers.o:pers.c
+	gcc -c pers.c -g
+
