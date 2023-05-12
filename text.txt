@@ -1,0 +1,4 @@
+Assets/graphic/noo.png Assets/graphic/yess.png 1 Assets/graphic/quest_11.png Assets/graphic/win.png Assets/graphic/lose1.png 
+Assets/graphic/noo.png Assets/graphic/yess.png 1 Assets/graphic/quest_22.png Assets/graphic/win.png Assets/graphic/lose1.png 
+Assets/graphic/noo.png Assets/graphic/yess.png 2 Assets/graphic/quest_33.png Assets/graphic/win.png Assets/graphic/lose1.png 
+
